@@ -2,7 +2,7 @@
 // @name         Official AtHomeGaming Theme
 // @namespace    http://tampermonkey.net/
 // @version      1.7
-// @updateUrl    https://github.com/mAtHomeGaming/AHGupdate/raw/master/AtHomeGamingThemePosted.user.js
+// @updateUrl    https://github.com/AtHomeGaming/ThemeUpdate/raw/AtHomeGaming-patch-1/OfficialAtHomeGamingTheme.user.js
 // @description  AtHomeGamings Official Shell Shockers Theme.
 // @author       AtHomeGaming
 // @match        https://shellshock.io/*
